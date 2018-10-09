@@ -14,6 +14,7 @@
 		29406EE2216A17100012EA30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29406EE0216A17100012EA30 /* LaunchScreen.storyboard */; };
 		29406EEA216A345C0012EA30 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29406EE9216A345C0012EA30 /* AboutViewController.swift */; };
 		29406EEC216A36580012EA30 /* AboutAuthorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29406EEB216A36580012EA30 /* AboutAuthorViewController.swift */; };
+		295C47F6216C427C00BD015D /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 295C47F5216C427C00BD015D /* BullsEye.html */; };
 		789B18163BD69465FF73A4AF /* Pods_BullsEye.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ADF6120416D86416AFBB98A /* Pods_BullsEye.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,8 +28,9 @@
 		29406EDE216A17100012EA30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29406EE1216A17100012EA30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29406EE3216A17100012EA30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		29406EE9216A345C0012EA30 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		29406EE9216A345C0012EA30 /* AboutViewController.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; tabWidth = 2; };
 		29406EEB216A36580012EA30 /* AboutAuthorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutAuthorViewController.swift; sourceTree = "<group>"; };
+		295C47F5216C427C00BD015D /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 		429FF96BB466BF5BD163746F /* Pods-BullsEye.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BullsEye.release.xcconfig"; path = "Pods/Target Support Files/Pods-BullsEye/Pods-BullsEye.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +84,7 @@
 				29406EDE216A17100012EA30 /* Assets.xcassets */,
 				29406EE0216A17100012EA30 /* LaunchScreen.storyboard */,
 				29406EE3216A17100012EA30 /* Info.plist */,
+				295C47F5216C427C00BD015D /* BullsEye.html */,
 			);
 			path = BullsEye;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				29406EE2216A17100012EA30 /* LaunchScreen.storyboard in Resources */,
+				295C47F6216C427C00BD015D /* BullsEye.html in Resources */,
 				29406EDF216A17100012EA30 /* Assets.xcassets in Resources */,
 				29406EDD216A170F0012EA30 /* Main.storyboard in Resources */,
 			);
