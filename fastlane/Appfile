@@ -1,0 +1,8 @@
+app_identifier("tech.leblanc.BullsEye") # The bundle identifier of your app
+apple_id("phillip.leblanc@outlook.com") # Your Apple email address
+
+itc_team_id("119206264") # App Store Connect Team ID
+team_id("C2DD65U2QA") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
